@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+k"], "command": "toggle_side_bar" },
+  { "keys": ["ctrl+t"], "command": "php_code_gen"},
+  { "keys": ["ctrl+#"], "command": "toggle_comment", "args": { "block": false } },
+]

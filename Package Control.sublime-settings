@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"BeautifyRuby",
+		"Better CoffeeScript",
+		"CodeFormatter",
+		"EasyDiff",
+		"ERB Autocomplete",
+		"Google Spell Check",
+		"LaTeXSQ",
+		"PHP-Twig",
+		"PhpCodeGen",
+		"Pretty YAML",
+		"Rails Developer Snippets",
+		"Rails Partial",
+		"RSpec",
+		"RuboCop",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Sublimerge Pro",
+		"Symfony2 Snippets",
+		"Twig"
+	]
+}
